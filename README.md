@@ -4,6 +4,9 @@
 
 This project implements a car counting system using YOLOv10 for vehicle detection and ByteTrack for object tracking. The system is designed to monitor and count the number of vehicles passing through a designated area in real-time, making it valuable for traffic management and urban planning. 🌆
 
+## Result
+https://github.com/user-attachments/assets/8907a0a4-a5ae-4974-8863-847bc9262a57
+
 ## Features
 
 - **Real-Time Vehicle Detection**: Utilizes YOLOv10 for efficient and accurate vehicle detection. 🔍

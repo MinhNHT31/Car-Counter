@@ -8,6 +8,7 @@ This project implements a car counting system using YOLOv10 for vehicle detectio
 
 
 https://github.com/user-attachments/assets/e9f5a489-162c-453a-8574-53285b3ec48c
+![Thiết kế chưa có tên](https://github.com/user-attachments/assets/96af7c7b-3fa4-4867-bc61-5293157ee6d2)
 
 
 
